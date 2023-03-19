@@ -12,7 +12,8 @@ Inför denna uppgift ska vi:
 * Skapa README-fil
     * med **markdown**
 
-* Infoga kommando för att klona repository
+* Infoga kommando för att klona repository  
+_kopiera nedanstående rad till terminalen/kommandoprompten_
     * git clone https://github.com/Legoplayer/Moment-1.2.1.git
 
 * Skapa README-fil som beskriver [GitHub profil]
