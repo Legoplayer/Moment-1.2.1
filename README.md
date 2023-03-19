@@ -3,10 +3,10 @@
 
 Inför denna uppgift ska vi:
 
-* Skapa ett konto på [GitHub](www.gitHub.com)
+* Skapa ett konto på [GitHub](www.gitHub.com)  
     _gratis konto räcker_
 
-* Skapa ett nytt remote repository och projekt
+* Skapa ett nytt remote repository och projekt  
     **och göra det public**
 
 * Skapa README-fil
@@ -14,6 +14,8 @@ Inför denna uppgift ska vi:
 
 * Infoga länk för att klona repository
 
-* Skapa README-fil som beskriver [min GitHub progfil]:[profil]
+* Skapa README-fil som beskriver [GitHub profil]:[min GitHub profil]
 
-[profil]: https://github.com/Legoplayer
+[GitHub profil]: https://github.com/Legoplayer
+
+Av Babak Jameei, 2023
