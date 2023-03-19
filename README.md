@@ -14,7 +14,7 @@ Inför denna uppgift ska vi:
 
 * Infoga länk för att klona repository
 
-* Skapa README-fil som beskriver [GitHub profil]:[min GitHub profil]
+* Skapa README-fil som beskriver [GitHub profil]
 
 [GitHub profil]: https://github.com/Legoplayer
 
